@@ -12,8 +12,7 @@ var passport = require('passport')
 var session = require('express-session')
 
 // Mongo
-var mongoose = require('mongoose');
-
+var mongoose = require('mongoose')
 
 
 // *** mongoose ***
